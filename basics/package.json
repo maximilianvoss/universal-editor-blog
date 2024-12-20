@@ -1,0 +1,19 @@
+{
+  "name": "universal-editor-blog-basics",
+  "version": "1.0.0",
+  "description": "Basic example app for a blog around Universal Editor",
+  "keywords": [
+    "universal-editor"
+  ],
+  "author": "Maximilian Voss",
+  "license": "Apache-2.0",
+  "type": "commonjs",
+  "source": "src/index.js",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
